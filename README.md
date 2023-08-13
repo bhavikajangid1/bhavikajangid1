@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavika Jangid</h1>
 <h3 align="center">I'm a student looking forward to contibute to open source.</h3>
 
-- 📄 [Resume] (https://drive.google.com/file/d/1rWD53qE1Uy1uyBlAP_kfgvq7VNI8TZsM/view?usp=sharing)
+- 📄  <a herf='https://drive.google.com/file/d/1rWD53qE1Uy1uyBlAP_kfgvq7VNI8TZsM/view?usp=sharing'> Resume </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
