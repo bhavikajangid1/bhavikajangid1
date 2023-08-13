@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavika Jangid</h1>
-<h3 align="center">I am a versatile full-stack developer, weaving functionality and aesthetics into seamless digital experiences.</h3>
+<h3 align="center">Looking forward to contibute to open source.</h3>
 
 - 📄 Resume [https://drive.google.com/file/d/1rWD53qE1Uy1uyBlAP_kfgvq7VNI8TZsM/view?usp=sharing](https://drive.google.com/file/d/1rWD53qE1Uy1uyBlAP_kfgvq7VNI8TZsM/view?usp=sharing)
 
